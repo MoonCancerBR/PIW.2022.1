@@ -1,11 +1,12 @@
 let usuarios = 
     [
-    //     {
-    //     _id: 1,
-    //     nome:"Renata",
-    //     sobrenome:"Glask"
-    // }
-]
+//  {
+//    "id": "1",
+//    "nome": "Victor",
+//    "email": "victor.aefarias@gmail.com",
+//    "senha": "123"
+//  }
+    ]
 
 module.exports.listarUsuarios = function(req, res)    
     {
