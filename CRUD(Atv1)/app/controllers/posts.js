@@ -1,10 +1,10 @@
 let posts = 
     [
-    //     {
-    //     _id: 1,
-    //     nome:"Renata",
-    //     sobrenome:"Glask"
-    // }
+//      {
+//          "id": "1",
+//          "texto": "Oi, tudo bem?",
+//          "likes": "6"
+//      }
 ]
 
 module.exports.listarPosts = function(req, res)    
